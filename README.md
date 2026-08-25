@@ -57,10 +57,7 @@ I build ML pipelines, RAG systems, and full-stack apps — currently at **Tribit
 
 ### 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hansfredrick&show_icons=true&locale=en&theme=default" alt="hansfredrick stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansfredrick&layout=compact&locale=en" alt="hansfredrick top langs" height="160"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HansFredrickAragona&show_icons=true&locale=en&theme=default" alt="HansFredrickAragona stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansFredrickAragona&layout=compact&locale=en" alt="HansFredrickAragona top langs" height="160"/> </p>
 
 ---
 
